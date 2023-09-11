@@ -1,2 +1,2 @@
-# cards-guesser-minigame
+# cards-guesser
 Cards guessing minigame using Python and SQL
